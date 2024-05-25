@@ -6,6 +6,8 @@ With App/Console Icons based on Arcticons by joelchrono: https://github.com/Onio
 
 
 Preview:
+
+
 ![](https://github.com/PatientSeb/OnionOs-catppuccin/blob/main/demo2.gif)
 
 
