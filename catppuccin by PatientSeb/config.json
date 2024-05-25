@@ -10,12 +10,12 @@
         "fixed": true
     },
     "title": {
-        "font": "/mnt/SDCARD/miyoo/app/iosevka-bolditalic.ttf",
+        "font": "/mnt/SDCARD/miyoo/app/iosevka-bold.ttc",
         "size": 25,
         "color": "#cba6f7"
     },
     "hint": {
-        "font": "/mnt/SDCARD/miyoo/app/iosevka-bolditalic.ttf",
+        "font": "/mnt/SDCARD/miyoo/app/iosevka-bold.ttc",
         "size": 25,
         "color": "#cba6f7"
     },
@@ -26,14 +26,14 @@
         "color": "#a6e3a1"
     },
     "grid": {
-        "font": "/mnt/SDCARD/miyoo/app/iosevka-bolditalic.ttf",
+        "font": "/mnt/SDCARD/miyoo/app/iosevka-bold.ttc",
         "grid1x4": 25,
         "grid3x4": 18,
         "color": "#cba6f7",
         "selectedcolor": "#b4befe"
     },
     "list": {
-        "font": "/mnt/SDCARD/miyoo/app/iosevka-italic.ttf",
+        "font": "/mnt/SDCARD/miyoo/app/iosevka-regular.ttc",
         "size": 25,
         "color": "#b4befe"
     }
