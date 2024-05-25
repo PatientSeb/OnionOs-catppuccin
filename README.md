@@ -5,7 +5,8 @@ With coloring based on midnitefox's GarlicOS theme: https://github.com/midnitefo
 With App/Console Icons based on Arcticons by joelchrono: https://github.com/OnionUI/Themes/blob/main/generated/icons_standalone/index.md
 
 
-Preview available in the uncompressed folder.
+Preview:
+![](https://github.com/PatientSeb/OnionOs-catppuccin/blob/main/demo2.gif)
 
 
 To use this, download and place it in your OnionOS/Themes/ folder, then use the theme tool under Applications to select it as the active theme. 
