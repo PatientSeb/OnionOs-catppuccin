@@ -1,0 +1,40 @@
+{
+    "name": "catppuccin",
+    "author": "patientSeb",
+    "description": "A Catpuccinn theme based on the Garlic OS work done by u/midnitefox",
+    "batteryPercentage": {
+        "visible": false,
+        "color": "#74c7ec",
+        "size": 18,
+        "offsetX": 26,
+        "fixed": true
+    },
+    "title": {
+        "font": "/mnt/SDCARD/miyoo/app/iosevka-bolditalic.ttf",
+        "size": 25,
+        "color": "#cba6f7"
+    },
+    "hint": {
+        "font": "/mnt/SDCARD/miyoo/app/iosevka-bolditalic.ttf",
+        "size": 25,
+        "color": "#cba6f7"
+    },
+    "currentpage": {
+        "color": "#cba6f7"
+    },
+    "total": {
+        "color": "#a6e3a1"
+    },
+    "grid": {
+        "font": "/mnt/SDCARD/miyoo/app/iosevka-bolditalic.ttf",
+        "grid1x4": 25,
+        "grid3x4": 18,
+        "color": "#cba6f7",
+        "selectedcolor": "#b4befe"
+    },
+    "list": {
+        "font": "/mnt/SDCARD/miyoo/app/iosevka-italic.ttf",
+        "size": 25,
+        "color": "#b4befe"
+    }
+}
